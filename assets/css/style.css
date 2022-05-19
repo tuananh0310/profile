@@ -81,13 +81,17 @@ img {
 }
 
 .card button:hover {
+    opacity: 0.9;
     background: var(--primary--color);
     cursor: pointer;
 }
 
 .card button a {
-    color:#f2726a;
+    color:#fff;
+    padding: 8px 30px;
     text-decoration: none;
+    opacity: 1;
+    font-size: medium;
 }
 
 .card-img:hover {
