@@ -85,10 +85,19 @@ img {
     cursor: pointer;
 }
 
+.card button a {
+    color:#f2726a;
+    text-decoration: none;
+}
+
 .card-img:hover {
     width: 100%;
     height: 100%;
     border-radius: unset;
     transform: unset;
     border :none;
+}
+
+.card-img .hoveroff {
+    pointer-events: none;
 }
