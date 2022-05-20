@@ -64,6 +64,7 @@ img {
     color: white;
     margin: 25px 20px;
     font-size: 25px;
+    text-decoration: none;
 }
 
 .card-social a:hover {
