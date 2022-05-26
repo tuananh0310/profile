@@ -1,5 +1,5 @@
 const clickImg = document.querySelector('img');
 function change() {
-    clickImg.setAttribute('src', 'https://scontent.fhan2-1.fna.fbcdn.net/v/t39.30808-6/279495107_3144516059121487_8415778391474294421_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=7FTgKBLsTOgAX-yP6k5&_nc_ht=scontent.fhan2-1.fna&oh=00_AT--C5DMZe79WdjnWKGdzKULssSJOmdv2HG6MYMIE4hSDA&oe=628BBD58')
+    clickImg.setAttribute('src', 'https://scontent.fhan2-2.fna.fbcdn.net/v/t39.30808-6/274871407_3096781290561631_1297255189635690247_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=174925&_nc_ohc=IIsKCo2FFegAX-x5bDx&_nc_ht=scontent.fhan2-2.fna&oh=00_AT_dU2wsTpqa2NCvK9J6rIeizaK-fmzkgvkWWDA_6Zyw2Q&oe=62956E13')
 }
 
